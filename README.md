@@ -1,6 +1,4 @@
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanielee/hanalee/main/dark.svg?v=18">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanielee/hanalee/main/light.svg?v=18">
     <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/hanielee/hanalee/main/dark.svg?v=17" width="100%">
   </picture>
 
